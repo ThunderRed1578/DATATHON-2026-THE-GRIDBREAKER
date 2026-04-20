@@ -1,0 +1,18 @@
+# Agent Documentation
+CLAUDE.md
+GEMINI.md
+
+# Data Documentation
+data_structure.md
+data-erd-graph.md
+
+# Environment
+.venv/
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
+
+scratch/
