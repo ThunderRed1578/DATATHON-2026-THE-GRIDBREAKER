@@ -10,6 +10,7 @@ data-erd-graph.md
 .venv/
 __pycache__/
 *.pyc
+.env
 
 # OS files
 .DS_Store
