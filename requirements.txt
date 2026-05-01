@@ -1,4 +1,14 @@
+# Data processing
 pandas
+numpy
+
+# Visualization
 matplotlib
 seaborn
+
+# Machine Learning
+lightgbm
+scikit-learn
+
+# Jupyter
 ipykernel
