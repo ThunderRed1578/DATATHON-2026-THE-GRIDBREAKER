@@ -11,15 +11,15 @@ DATATHON-2026-THE-GRIDBREAKER/
 ├── README.md                    # File này
 ├── requirements.txt             # Các thư viện Python cần thiết
 ├── data/                        # Thư mục chứa dữ liệu thô
-│   ├── sales.csv               # Dữ liệu bán hàng lịch sử (dùng để train)
-│   ├── sample_submission.csv   # Template định dạng nộp bài
-│   └── ...                     # Các file dữ liệu khác
+│   ├── sales.csv                # Dữ liệu bán hàng lịch sử (dùng để train)
+│   ├── sample_submission.csv    # Template định dạng nộp bài
+│   └── ...                      # Các file dữ liệu khác
 ├── Part 1/                      # Bài tập cơ bản
 │   ├── ex1.ipynb
 │   └── ex1.md
 ├── Part 2 - Visualize & Analyse/ # Khám phá và phân tích dữ liệu
-│   ├── Q135.ipynb
-│   └── Q246.ipynb
+│   ├── Q123.ipynb
+│   └── Q456.ipynb
 └── Part 3 - Revenue Prediction Model/ # Model chính
     ├── baseline.ipynb           # Model baseline
     ├── sales-forecasting-model.ipynb # Model dự báo nâng cao
