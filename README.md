@@ -62,9 +62,7 @@ pip install -r requirements.txt
 
 2. Mở file ```sales-forecasting-model.ipynb``` trong thư mục ```Part 3 - Revenue Prediction Model```.
 
-3. Chạy toàn bộ notebook để tạo file submission.csv.
-
-4. Notebook sẽ thực hiện:
+3. Chạy toàn bộ notebook, notebook sẽ thực hiện:
    - Load và inspect dữ liệu bán hàng từ `data/sales.csv`
    - Engineer features (calendar, trend, seasonality)
    - Train model LightGBM
@@ -92,7 +90,9 @@ File `submission.csv` sẽ chứa các predictions với các cột:
 
 ## Thành viên nhóm
 
-- Nguyễn Lê Tấn Phát
-- Nguyễn Nhật Trường
-- Dương Ngọc Kiều Trinh
-- Nguyễn Phạm Tú Uyên
+| STT | Họ và tên              | Email                            |
+|-----|------------------------|----------------------------------|
+| 1   | Nguyễn Lê Tấn Phát     | phatle1578@gmail.com             |
+| 2   | Nguyễn Nhật Trường     | truong.nhat3040@gmail.com        |
+| 3   | Dương Ngọc Kiều Trinh  | duongngockieutrinh0303@gmail.com |
+| 4   | Nguyễn Phạm Tú Uyên    | nguyenphamtuuyen0101@gmail.com   |
