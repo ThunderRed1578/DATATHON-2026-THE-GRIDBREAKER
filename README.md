@@ -60,12 +60,11 @@ pip install -r requirements.txt
    cd DATATHON-2026-THE-GRIDBREAKER
    ```
 
-2. Mở và chạy notebook:
-   ```
-   Part 3 - Revenue Prediction Model/sales-forecasting-model.ipynb
-   ```
+2. Mở file ```sales-forecasting-model.ipynb``` trong thư mục ```Part 3 - Revenue Prediction Model```.
 
-3. Notebook sẽ thực hiện:
+3. Chạy toàn bộ notebook để tạo file submission.csv.
+
+4. Notebook sẽ thực hiện:
    - Load và inspect dữ liệu bán hàng từ `data/sales.csv`
    - Engineer features (calendar, trend, seasonality)
    - Train model LightGBM
@@ -73,7 +72,7 @@ pip install -r requirements.txt
    - Generate predictions cho 2023-2024
    - Export kết quả ra `submission.csv`
 
-4. File output: `Part 3 - Revenue Prediction Model/submission.csv`
+5. File output: `Part 3 - Revenue Prediction Model/submission.csv`
 
 ### Kết quả mong đợi
 
